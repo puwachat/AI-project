@@ -9,8 +9,8 @@
   - โหลดไฟล์ Anno&Dataset.rar
   - โหลดไฟล์ TensorFlow_ws -> https://drive.google.com/file/d/1-16TUTMyswL9J1ej7WnAuNEt2tmqOfi9/view?usp=sharing
   - โหลดไฟล์ model ที่เทรนแล้ว -> https://drive.google.com/file/d/1uhHiyPaAHTHe79VAZy30pxn3Je-CoY4H/view?usp=sharing
-  - แตกไฟล์ทั้งหมดจากนั้น
-    1. เอาโฟล์เดอร์ Annotations ย้ายไปใน TensorFlow_ws/workspace/training_demo/
+  - แตกไฟล์ทั้งหมด Anno&dataset จะมี 2 โฟลเดอร์ให้ทำตามนี้ 
+    1. เอาโฟล์เดอร์ annotations ย้ายไปใน TensorFlow_ws/workspace/training_demo/
     2. เอาโฟล์เดอร์ images ย้ายไปใน TensorFlow_ws/workspace/training_demo/
     3. เอา model ที่เทรนแล้วทั้งโฟลเดอร์ ย้ายไปใน TensorFlow_ws/workspace/training_demo/exported-models
     4. รันไฟล์ 02_TFOD_webcam.ipynb
