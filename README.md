@@ -14,3 +14,7 @@
     2. เอาโฟล์เดอร์ images ย้ายไปใน TensorFlow_ws/workspace/training_demo/
     3. เอา model ที่เทรนแล้วทั้งโฟลเดอร์ ย้ายไปใน TensorFlow_ws/workspace/training_demo/exported-models
     4. รันไฟล์ 02_TFOD_webcam.ipynb
+   หน้าตาโฟลเดอร์ประมาณนี้ แล้วใช้ vscode รันไฟล์ 02_TFOD_webcam ได้เลย
+![image](https://user-images.githubusercontent.com/42464592/135790931-305976dd-f82b-4edd-af5a-21d9d32d6d7e.png)
+![image](https://user-images.githubusercontent.com/42464592/135790991-e4874be6-762c-4ed2-91b8-914807c4e546.png)
+
